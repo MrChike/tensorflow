@@ -15,6 +15,8 @@
 # pylint: disable=protected-access
 """Code for model cloning, plus model-related API entries."""
 
+print('HELLO WORLD!')
+
 from tensorflow.python.framework import ops
 from tensorflow.python.keras import backend
 from tensorflow.python.keras import metrics as metrics_module
